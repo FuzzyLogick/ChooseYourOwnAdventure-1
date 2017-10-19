@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 18]")
+    print("")
+    print('Something inside you says these people should not get their hands on the bottle.  "Do not come any closer," you say.  "This bottle is the property of the Cragmore Museum."')
+    print("")
+    print('"There is no need to be emotional, my young, overweight friend," says leader in a soothing voice.  "The bottle is only of historical curiousity and has no real value.  But we will be happy to pay you a generous reward for it, as a way to thank you for finding it.  We will give you $5,000 of your American cash, right now."')
+    print("")
+    print("")
+    print("+ If you want to accept their offer, enter 12 to continue.")
+    print("")
+    print("+ If you want to refuse their offer, enter 16 to continue.")
+    print("")
+    print("")
+    return

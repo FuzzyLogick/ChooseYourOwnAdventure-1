@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 60 / part 71]")
+    print("")
+    print("You're not ready to tell anyone about the bottle.  Keeping it hidden under your clothing, you start walking back to camp.  You'll decide what to do tomorrow.")
+    print("")
+    print("Suddenly, unseen hands grab you from behind.  That is your last memory of ancient Egypt.")
+    print("")
+    print("The next thing you see is the high ceiling of the Cragmore Planetarium.  The speaker is still talking about the night sky in August.  Did you fall asleep?  Nothing seems to have changed, until you check your pocket.  The old bottle is gone.  If you hurry, you may still have time to finish your term paper.")
+    print("")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

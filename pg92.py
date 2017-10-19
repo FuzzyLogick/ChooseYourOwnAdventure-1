@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("From part 66")
+    print("")
+    print("Your first task is to find Dr. Walker.  Whatever is shiny on top of the hill may be a clue, so you walk up there as carefully as you can.  At the crest of the hill, you see something amazing:  a large spaceship with its hatch open.  Small grey aliens with large black eyes are walking about, working with a ray gun.  Beside the aliens stand a woolly mammoth, frozen solid.")
+    print("")
+    print("As a bird flies overhead, an alien shoots it with the ray gun, freezes it, and drops silently from the sky.  A solid thud sound was felt when it hit the ground.  Then you notice a frozen saber-toothed tiger, several more birds, and a woman in a white coat.  It can only be Dr. Margaret Walker!")
+    print("")
+    print("")
+    print("+ If you want to approach the aliens, enter 72 to continue.")
+    print("")
+    print("+ If you want to remain hidden, enter 76 to continue.")
+    print("")
+    print("")
+    return

@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 9]")
+    print("Agreeing to go, you board the ship and speed to Andromeda at one thosand times the speed of light.  On the way, Nisko and Vleet tell you about their beautiful world and it's history.  You can't wait to get there.")
+    print("But when you land your ship in the capital, Andromeda Central, the three of you learn about the terrible things that have happened since Nisko and Vleet left seven months ago.")
+    print("The evil Lord Snag and his horde of Voxon warriors have invaded the planet.  Lord Snag has set himself up in the Andromedan palace.  All that was once beautiful on Andromeda is being shipped away to Snag's home planet in the Rigel system.")
+    print("Rebel Andromedans are hiding in the mountains on the other side of the planet.  Nisko and Vleet are experts in geology, but that's about all.  They need your advice.")
+    print("")
+    print("")
+    print("+ If you want to try to slip into Lord Snag's palace, enter 5 to continue.")
+    print("")
+    print("+ If you want to try to find the rebels in the mountains, enter 7 to continue.")
+    print("")
+    print("")
+    return

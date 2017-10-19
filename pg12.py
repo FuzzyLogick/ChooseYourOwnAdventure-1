@@ -1,0 +1,17 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 79]")
+    print("")
+    print("You accept their offer, and they give you $5,000.  You turn over the bottle to them.")
+    print('Now that they have it, the leader takes out a knife from his robe and says to you "Thank you for being so cooperative.  Now we will take back out money."')
+    print("You have no choice.  As they leave with the bottle and money, you wonder who they were and what they wanted with that strange bottle")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

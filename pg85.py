@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 51 / part 65]")
+    print("")
+    print("You sneak away to the hidden spot where you can be alone.  Opening the bottle, you recognize the familiar scent of honey and cinnamon.")
+    print("")
+    print("After you take a little sip, you feel warmth in your stomach.  But when you look down, you see your feet have turned into the talons of a bird.")
+    print("")
+    print("")
+    print("+ If you want to drink more of the liquid, enter 58 to continue.")
+    print("")
+    print("+ If you don't want to drink more, enter 71 to continue.")
+    print("")
+    print("")
+    return

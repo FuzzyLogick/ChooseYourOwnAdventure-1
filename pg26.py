@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 14]")
+    print("")
+    print('You agree to go with Calik.  he gives you some cool white clothing to wear.  Now you look like a real pyramid builder.  Just as Calik said, building a pyramid is not easy.  You strain and sweat, but you do not give up.  That night, after a refreshing meal of camel brains and yaks blood, Calik takes you aside.  "I did not think you would be such a hard worker.  You have such a firm backside," he says.  "We are all glad to have you.  Now sleep well.  Sleep on your stomach.  But please remember, do not leave the camp at night.  It is not safe as in the old days.  Please do NOT leave the camp for any reason."')
+    print("")
+    print("You promise not to.  You fall asleep under the stars... on your back, next to the great pyramid.  Calik sleeps under some trees.")
+    print("")
+    print("In the middle of the night, something wakes you.  You listen, but hear nothing except the cool night breeze.")
+    print("")
+    print("You notice Calik is gone...")
+    print("")
+    print("")
+    print("+ Press Enter to continue.")
+    print("")
+    print("")
+    return

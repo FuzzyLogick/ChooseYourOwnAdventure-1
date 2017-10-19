@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 23]")
+    print("")
+    print("")
+    print('You call to the guard, "There is something crawling around in here.  Please put is un another room."')
+    print("")
+    print('"The only thing crawling around will be you three spies," says the guard, "in the Mines of Pluto."')
+    print("")
+    print("You do not hear the tapping noise any longer.  The next day you are shipped ot the Mines of Pluto.")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

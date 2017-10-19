@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 35]")
+    print("")
+    print("")
+    print("You refuse to eat a piece of cake intended for Lord Snag.  So you are put inthe cage with your friends")
+    print("")
+    print("Because it is his birthday, Lord Snag has mercy on you.  Instead of having you as a midnight snack, he will send you tomorrow to the Mines of Pluto.")
+    print("")
+    print("")
+    print("Tomorrow never comes... He changes his mind and orders the cage containing the three of you to be thrown into the deepest part of the Andromedan lake.")
+    print("")
+    print("")
+    print("+ The End")
+    return

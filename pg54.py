@@ -1,0 +1,17 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 86]")
+    print("")
+    print("")
+    print("Dr. Walker, if she is still alive, must be somewhere in this cold world.  But where?")
+    print("")
+    print("At the edge of the forest you see a faint wisp of smoke.  If it is a fire, perhaps there are other human beings here.  Perhaps Dr. Walker is among them.  There may even be some warm food.")
+    print("")
+    print("You begin walking toward the forest.  Then you hear a noise behind you.  You turn to see a herd of wolly mammoths who have discovered your time machine!  They pick up the machine.  You shout at them, but it's too late.  They hurl the machine against the ground.  How will you get back home now?  If you think this is bad, a giant saber-toothed tiger has spotted you... and it looks hungry.  You run to the nearest tree, but the tiger is gaining on you.  You'll never be able to climb the tree in time.  Suddenly two hand grab you from above and haul you up into the tree.  The tiger lunges at you, but just misses.")   
+    print("")
+    print("")
+    print("+ Turn to page 66 to continue.")
+    print("")
+    print("")
+    return

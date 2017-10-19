@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 79]")
+    print("")
+    print('"This bottle does not belong to any of us," you say.  "I am going to turn it over to the museum."')
+    print('"Do not be foolish, you little shit!" says the leader.  "You could hav had this money.  Now we are going to take the bottle anyway, and you will have nothing."')
+    print("They walk towards you.  You threaten to throw the bottle against the floor.")
+    print('"You would not dare!!!" says the leader.  He lunges at you, but not before you do smash the bottle against the floor.')
+    print("Smoke rises in a small thick cloud from the floor, and drifts over to a huge stuffed gorilla.  The gorilla now comes alive!  The men and women in white are terrified.  They run out of the hall and leave you alone with the beast.  Then something even more unexpected happens.")
+    print("")
+    print('"Thank you," says the gorilla.  "I do not know how you did that, but I was pretty tired of standing there for so many years."')
+    print("")
+    print("")
+    print("+ Press Enter to continue.")
+    print("")
+    print("")
+    return

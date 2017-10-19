@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 54]")
+    print("")
+    print("You come face to face with a prehistoric man and woman.  Together they carry you higher and highter into the tree.  The tiger will not follow you up there.  You are safe.  The man and woman grunt and poke you in the arm.  You poke them back, and they smile.  They seem to like you.")
+    print("")
+    print("The tiger soon goes away, and the two people climb down to the ground.  They begin to walk away.  From your tree-top perch, you see something shiny at the top of a nearby hill.  The man and woman are walking in the other direction, toward the smoke in the forest.  Soon they disappear behind the trees.")
+    print("")
+    print("")
+    print("+ If you want to follow the man and woman, enter 99 to continue")
+    print("")
+    print("+ If you want to go to the top of the hill, enter 92 to continue.")
+    print("")
+    print("")
+    return

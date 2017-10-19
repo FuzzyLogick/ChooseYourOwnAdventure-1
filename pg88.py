@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("From part 47")
+    print("")
+    print("You decide to go to the forest.  This is an excellent idea.  The forest is new territory for the rebels, but also for the Voxons.  Lord Snag expected you to fight in the hills.")
+    print("")
+    print("You also have a secret weapon in the forest that no one is counting on:  the forest people.  They hate the Voxons for cutting down so many trees and for hunting their people for sport.  The forest people rise up to help you, and the Andromeadan rebals beat the Voxons badly.")
+    print("")
+    print("Now it is just a matter of time before you drive Lord Snag from Andromeda forever.  You are a hero.")
+    print("")
+    print("")
+    print("+  The End.")
+    print("")
+    print("")
+    return

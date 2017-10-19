@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("From part 66")
+    print("")
+    print("You follow the prehistoric couple to their cave home.  The rest of their family is there, and they welcome you.  You eat hot food and sleep soundly beside them at night.")
+    print("")
+    print("The next day you walk up to the hill to see the shiny object, but it is no longer there.  Later you try to fix the damaged time machine, but you aren't sure how to do it.")
+    print("")
+    print("You never do find Dr. Walker, but you spend many months living peacefully with the prehistoric people.")
+    print("")
+    print("One afternoon, almost a year to the day of your arrival, you are out checking traps for live animals, and slip down a steep embankment.  You tumble uncontrollably, end over end.  Your head violently hits a rock and a few hours later, you succumb to your injuries.")
+    print("")
+    print("")
+    print("+ The End")
+    print("")
+    print("")
+    return

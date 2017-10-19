@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 21]")
+    print("")
+    print("The Hall of Dinosaurs is a big room, but for some reason, all the exits are blocked.  The seven people now have you trapped. Giant dinosaur skeletons loom above you.")
+    print("")
+    print('"Give us the bottle," says the leader.')
+    print("")
+    print("")
+    print("+ If you want to give them the bottle, enter 83 to continue.")
+    print("")
+    print("+ If you want to drink the potion, enter 89 to continue.")
+    print("")
+    print("")
+    return

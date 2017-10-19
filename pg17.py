@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 11]")
+    print("")
+    print("You give the bottle to the seven people.  They tie you and Professor Brown to chairs, then leave you in the room.  You may be here for a long time.  Fortunately, professor Brown's colleague, Dr. Amanda Karp, walks into the office.")
+    print("")
+    print('"Who were those people? she asks."')
+    print('"No time to explain, Dr. Karp," says Brown.  "We have got to find them.  But where could they have gone?"')
+    print("")
+    print("You have a good guess.  You lead the two professors back to the Hall of Ancient Egypt.")
+    print("")
+    print("+ Press Enter to continue.")
+    print("")
+    print("")
+    return

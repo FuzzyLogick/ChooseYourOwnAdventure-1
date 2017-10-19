@@ -1,0 +1,17 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 10]")
+    print("")
+    print("")
+    print('You, Nisko and Vleet bribe your way into the palace by slipping a rare gem to a guard.  The night sky is lit by all three moons of Alpha Andromeda.  You walk dow a dark corridor, not quite sure of where you are.  Suddenly a voice from behind a door whispers...')
+    print("")
+    print("Psst. Don't go that way.")
+    print("")
+    print("")
+    print("+ If you want to follow the voice and go through the door, enter 27 to continue.")
+    print("")
+    print("+ If you want to keep walking down the hall, enter 23 to continue.")
+    print("")
+    print("")
+    return

@@ -1,0 +1,15 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 22]")
+    print("")
+    print("")
+    print("You take the Argonix, which erases any odor you might have.  It is a hard climb through the forest, but you arrive at the Mangons' lair safely.  Becuase the monsters can't smell you, they don't wake up.  Now it will be easy to take the Stone of Narvelin and to free Andromeda.")
+    print("")
+    print("You become a national hero and are given a safe ride home to Earth.  There will always be a special holiday in your honor on the distant world of Alpha Andromeda.")   
+    print("")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

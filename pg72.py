@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 92]")
+    print("")
+    print('You walk out into the clearing.  "I am a friend," you say.')
+    print("")
+    print("They freeze you solid.  When you thaw out, you are laying on a cold metallic table.  Your head hurts, and your eyes are getting used to intense bright light pointed directly at your face.  You feel like you are in a hospital, about to be examined.  But the rest of the room is unusually dark.  You look to your left side and see figures standing just out of view.  They are getting ready to see how badly you are hurt.  One of them is placing instruments onto a cart, he turns his head and notices you.  He stops.  The rest of the doctors stop and turn to face you.  They must be surprised you are alright.  You wave to them weakly with your hand and say that you are alright.  Your faint smile begins to weaken when they do not respond.  Something about this doesn't feel right.  Collectively, the doctors begin walking towards you and if by command, the overhead light increases in brightness.  It is so bright now, when you shut your eyes, you can still see it.  You can hear them rustle around you, getting into position.  You shield your eyes from the brightness and you feel a gloved hand grab your wrist and place it back to your side.  Just then, a bolt of lightning surges through your body as you realize the hand holding your wrist has three, elongated fingers.  You lunge your body upward, attempting to sit up and several hands push you quickly back down, hard.  They are pressing your shoulders tightly against the table.  In the panic, you look one of the doctors directly in the eyes... this isn't right.")
+    print("")
+    print("His narrow face is missing features.  A mouth, but no lips.  Slits for nostrals, but no nose.  No hair, just pink flesh.  Eyes, black, almond shaped eyes stare through you.  He does not appear to be alive, but he is.  You scream, and continue to scream for anyone or anything to help you.  A bedsheet of rubber is pulled over you.  It begins to constrict your body and press you tightly against the table.  Your blood runs cold as you just realized you are in trouble.  You cannot move, you cannot breath.  One of your captors picks up a scaple from the cart and cuts a hole for your mouth and right eye.  You gasp for air only to let out another bood curdling scream.  You now feel fingers holding your mouth open, and instinctivly you attempt to bite down.  They are strong, and you cannot close your mouth.  A hose is placed into your throught and you begin to gag.  The hose is hitting the back of your throat and you let out another muffled scream in pain and anger.  Why are they doing this to you?  They do not respond to you, only force the hose down harder.  Their fingers release your mouth and your lips feel the ribbed hose.  From your exposed eye, you can now see a machine being placed directly above.  A sharp needle is being positioned, pointed at you.  You feel helpless and begin to cry.  You are at the mercy of these beings.  Unable to escape, you can only lay there restrained against your will, as the needle begins pressing into your eye.")
+    print("")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

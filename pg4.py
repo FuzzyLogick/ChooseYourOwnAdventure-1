@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 1]")
+    print("")
+    print("")
+    print("You enter the Hall of Gems and Minerals and get ready to take notes.  You've already done some research in the school library, so this shouldn't take long. However, the first thing you notice in this hall are two pairs of small footprints.  They look as if they were made with chalk dust.  Each print bears the mark of three toes.  They lead from a huge meteorite exhibit to behind a temporary work partition.  Figuring your report can wait for just a minute, you go take a look behind the partition.")
+    print("")
+    print("")
+    print("There you meet two small aliens, clutching a chunk of the meteorite.")
+    print("")
+    print("")
+    print("+ Press Enter to continue.") 
+    print("")
+    print("")
+    return

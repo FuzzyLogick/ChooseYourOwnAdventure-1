@@ -1,0 +1,17 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 69]")
+    print("")
+    print("")
+    print("After dark, the gorilla's disguise should fool most people.  You buy two subway tokens and wait on the platform for the train.")
+    print("")
+    print("Then you notice a disturbance at the other end of the platform.  It is the seven men and women in white robes!  They are robbing passangers, and no one is stopping them.")
+    print("")
+    print("You run to call the police.  When the police arrive, all of the seven people have been captured by the gorilla.  You tell the police about what happened in the museum.  They find that the seven people are wanted by the FBI - they are an international gang of criminals.  You and the gorilla are local heroes.  The mayor gives you a reward.  The gorilla gets a first-class ticket back to Africa.  Best of all, your school principal allows you to go along.  You still owe a term paper, but now you can choose a new topic:  The wildlife of Africa.  It should be an exciting trip.")   
+    print("")
+    print("")
+    print("+ The End.")
+    print("")
+    print("")
+    return

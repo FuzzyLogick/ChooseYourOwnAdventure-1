@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 11]")
+    print("")
+    print("Taking everyone by surprise, you dash out the back door of Brown's office.  your quick decision gives you a head start.  But you know they will be following you.")
+    print("")
+    print("You run down a dark hall and come to an intersection.  One way leads to Hall of African Animals.  The other leads to the Hall of Dinosaurs")
+    print("")
+    print("")
+    print("+ If you want to run to the Hall of African Animals, enter 18 to continue.")
+    print("")
+    print("+ If you want to run to the Hall of Dinosaurs, enter 21 to continue.")
+    print("")
+    print("")
+    return

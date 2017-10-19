@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 63 / part 65]")
+    print("")
+    print("You tell Calik the whole story about how you found the bottle, then traveled back in time.  Calik does not understand everything you are saying, but he feels you must be telling him the truth, especially when you show him the bottle.")
+    print("")
+    print('"Thank you for telling me," says Calik.  "That took great courage.  Now there is not a moment to lose.  The Priests are getting ready to attack, and we must get this bottle to the pharaoh in time.  I am afraid I must ask you to take this to him yourself.  I have other important business I must see to first."')
+    print("")
+    print('"Beware of the Priests and their agents!  Give this potion to no one but the pharaoh.  Do not even speak of it to anyone else or we are all doomed.  May the great god Ra be with you."  Calik disappears down a dark street.')
+    print("")
+    print("You begin walking to the pharaoh's palace.")
+    print("")
+    print("")
+    print("+ Press Enter to conntinue.")
+    print("")
+    print("")
+    return

@@ -1,0 +1,16 @@
+def text():
+    print("")
+    print("")
+    #print("From part 70")
+    print("")
+    print("You hop into the machine and check the dial to make sure it is set for 33,005 B.C., the last date in Dr. Walker's journal.  You switch on the machine, and it begins to hum.")
+    print("")
+    print("The office door breaks down and the people in robes move slower and slower toward you.  They seem to be walking through a thick cloud of tiny lights.  All the colors of the rainbow.  Then you smell, hear, and see nothing.")
+    print("")
+    print("The next thing you know, you are in a flat, grassy land.  It is cold.  Ahead of you looms a forest.  Behind you a glacier spreads out over hundreds of square miles.  Woolly mammoths are grazing not far away, but they do not seem to notice you.  A few other animals stand peacefully nearby.  YOu are finally safe from the seven people, and the bottle is still in your pocket.  But are you alone in this ancient world?")
+    print("")
+    print("")
+    print("+  Press Enter to continue.")
+    print("")
+    print("")
+    return

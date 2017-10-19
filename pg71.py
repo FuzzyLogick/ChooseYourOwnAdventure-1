@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 85]")
+    print("")
+    print("You do not want to touch another drop from this bottle.  First it brought you to ancient Egypt.  Is it now turning you into a bird?  WTF, right?")
+    print("")
+    print("Trying not to panic, you sti calmly in your hidden spot.  In half an hour, the talons begin to fade and your feet return to normal.")
+    print("")
+    print("Now you are not sure what to think.  The liquid seems to do whatever it wants.  From your secret spot, you have a good view of the pyramid workers' camp.")
+    print("")
+    print("")
+    print("+ If you want to wait here and watch to see if Calik will leave camp again, enter 63 to continue")
+    print("")
+    print("+ If you want to walk back to camp and keep the bottle a secret, enter 67 to continue.")
+    print("")
+    print("")
+    return

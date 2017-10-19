@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 92]")
+    print("")
+    print("You decide to remain hidden, to wait for a better opportunity to rescue Dr. Walker.  Suddenly, there is trouble with the ray gun.  The aliens take the gun apart.")
+    print("")
+    print('"Ekon!" you hear one grumble.  "Borg" says the other.  They can not fix it.')
+    print("")
+    print("Now you run into the clearing.  The two aliens are so surprised, they run into their spaceship.  But they leave the door open.")
+    print("")
+    print("")
+    print("+ If you want to follow the aliens into their ship, enter 91 to continue.")
+    print("")
+    print("+ If you want to try to take away th frozen Dr. Walker, enter 95 to continue.")
+    print("")
+    print("")
+    return

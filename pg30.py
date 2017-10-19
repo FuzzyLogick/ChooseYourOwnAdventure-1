@@ -1,0 +1,18 @@
+def text():
+    print("")
+    print("")
+    #print("[From part 29]")
+    print("")
+    print('"Wait," growls Lord Snag.  The room rumbles and goes silent.  "I did not get to be Emperor of the Universe by trusting people.  I do not recognize that slave."  He means you.  "I would like you to taste this cake yourself!"')
+    print("")
+    print("He roars with laughter, and so do all the slaves, servants, and Voxon guards.")
+    print("")
+    print('"Of course," says Snag, "you have a choice.  you can eat the cake or you can join the others in the cage."')
+    print("")
+    print("")
+    print("+ If you agree to eat a piece of cake, enter 44 to continue.")
+    print("")
+    print("+ If you refuse to eat the cake, enter 48 to continue.")
+    print("")
+    print("")
+    return
